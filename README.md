@@ -9,4 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromerlini0101&show_icons=true&theme=dracula&bg_color=00000000)](https://github.com/pedromerlini0101/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromerlini0101&show_icons=true&theme=dracula&bg_color=00000000&card_width=500px)](https://github.com/pedromerlini0101/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromerlini0101&show_icons=true&theme=dracula&bg_color=00000000&card_width=500px&layout=compact)](https://github.com/pedromerlini0101/github-readme-stats)
